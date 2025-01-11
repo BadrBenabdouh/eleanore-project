@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(189, 189, 189);
+    padding: 2em 1em;
+}
+
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* --------main----------------- */
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.front-image{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.front-image img{
+    max-width: 100%;
+}
+
+/* --------SECTION--------- */
+
+.restaurant-motto{
+    font-size: 2.2em;
+}
+
+.restaurant-motto p{
+    width: 100%;
+    
+}
+
+/* -------FOOTER SECTION-------- */
+
+
+
+
