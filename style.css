@@ -16,6 +16,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 2em;
 }
 
 /* --------main----------------- */
@@ -24,6 +25,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 2em;
 }
 
 .front-image{
@@ -37,6 +39,16 @@ main{
 }
 
 /* --------SECTION--------- */
+
+section{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+
 
 .restaurant-motto{
     font-size: 2.2em;
