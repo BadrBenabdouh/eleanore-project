@@ -41,7 +41,6 @@ main{
 /* --------SECTION--------- */
 
 section{
-
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -52,14 +51,35 @@ section{
 
 .restaurant-motto{
     font-size: 2.2em;
+    cursor: auto;
 }
 
 .restaurant-motto p{
     width: 100%;
-    
 }
 
 /* -------FOOTER SECTION-------- */
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2em;
+}
+
+
+.footer-site-title, .address{
+    cursor: auto;
+}
+
+.instagram-logo{
+    cursor: pointer;
+}
+
+
+
+
 
 
 
